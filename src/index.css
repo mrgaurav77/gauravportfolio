@@ -14,7 +14,7 @@ body{
 }
 
 .navbar{
-  width: 690px;
+  width: 600px;
   margin: 20px auto;
   display: flex;
   gap: 16px;
@@ -24,7 +24,7 @@ body{
   color: dark;
 }
 .navbar-dark{
-  width: 690px;
+  width: 600px;
   margin: 20px auto;
   display: flex;
   gap: 16px;
@@ -63,7 +63,7 @@ body{
   color: rgb(255, 255, 255);
 }
 .home-container{
-  width: 690px;
+  width: 600px;
   margin: 60px auto;
 }
 .user{
